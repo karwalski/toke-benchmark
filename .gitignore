@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+dist/
+
+# Raw benchmark run results — commit only aggregated reports
+results/raw/
+results/*.jsonl
+
+.env
+.DS_Store
+.vscode/
