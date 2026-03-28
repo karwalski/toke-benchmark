@@ -12,6 +12,7 @@ authors = [{name = "M. Karwalski"}]
 [project.optional-dependencies]
 dev = [
     "pytest>=7",
+    "pyyaml>=6",
     "ruff>=0.4",
     "mypy>=1.8",
 ]
